@@ -82,7 +82,7 @@ then lines inside `~/.config/hypr/myColors.conf`, then lines below.
 Use something like
 [libinput-gestures](https://github.com/bulletmark/libinput-gestures), with
 `hyprctl` if you want to expand Hyprland's gestures beyond what's offered in
-[Variables](../Variables).
+[Variables](../Variables->Gestures/#gestures).
 
 ## Per-device input configs
 
